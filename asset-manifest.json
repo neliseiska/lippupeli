@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lippupeli/static/css/main.261a5340.chunk.css",
+    "main.js": "/lippupeli/static/js/main.7bedae0d.chunk.js",
+    "main.js.map": "/lippupeli/static/js/main.7bedae0d.chunk.js.map",
+    "runtime-main.js": "/lippupeli/static/js/runtime-main.8c3806bd.js",
+    "runtime-main.js.map": "/lippupeli/static/js/runtime-main.8c3806bd.js.map",
+    "static/js/2.1b4b3eec.chunk.js": "/lippupeli/static/js/2.1b4b3eec.chunk.js",
+    "static/js/2.1b4b3eec.chunk.js.map": "/lippupeli/static/js/2.1b4b3eec.chunk.js.map",
+    "index.html": "/lippupeli/index.html",
+    "precache-manifest.c97af83cbd5fea5dd9d935eac966b4f7.js": "/lippupeli/precache-manifest.c97af83cbd5fea5dd9d935eac966b4f7.js",
+    "service-worker.js": "/lippupeli/service-worker.js",
+    "static/css/main.261a5340.chunk.css.map": "/lippupeli/static/css/main.261a5340.chunk.css.map",
+    "static/js/2.1b4b3eec.chunk.js.LICENSE.txt": "/lippupeli/static/js/2.1b4b3eec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c3806bd.js",
+    "static/js/2.1b4b3eec.chunk.js",
+    "static/css/main.261a5340.chunk.css",
+    "static/js/main.7bedae0d.chunk.js"
+  ]
+}
